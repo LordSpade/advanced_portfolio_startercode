@@ -3,6 +3,21 @@ h1{
     text-align:center;
 }
 
+.navbar-text{
+    font-size:20px;
+    
+}
+
+img{
+    
+    width:35%;
+    display:block;
+    margin:auto;
+}
+p{
+    color:blue;
+    
+}
 /* Header CSS */
 
 
